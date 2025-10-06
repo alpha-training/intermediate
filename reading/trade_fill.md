@@ -29,3 +29,5 @@ Now let's imagine a very aggressive buy order for 20 comes in at 47.22. Such an 
 	10 7 3 0
 	
 Note that this order for 20 never *posts* to the book, which is to say that it never gets added to the book's list of orders; it merely takes liquidity by executing against the orders that are already on the book. In that sense our first example order at 47.18 was a liquidty *maker*, while the second was a liquidity *taker*. These are phrases that we will hear again.
+
+Regarding the signature of `tradeFill`, feel free to use explicit arguments or `x y` - whatever arguments you like.
