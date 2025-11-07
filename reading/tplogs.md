@@ -11,7 +11,7 @@ Here is the skeleton of a file `tpLogging.q`
 	S:`JPM`GE`IBM
 	C:T!(`time`sym`price;`time`sym`bid`ask)
 	l:0Ni			/ handle to the log file, null to start with
-	w:()!()
+	w:T!()
 
 	initLog:{  
  	 ...
