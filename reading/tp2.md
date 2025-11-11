@@ -133,7 +133,7 @@ At any time, you can do `get .u.L` to see what the contents of the log file are.
 ## client.q
 Write another script that does the following:
 
-	upd:upsert
+	upd:insert
 	
 	h:hopen 5010
 	
