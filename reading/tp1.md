@@ -1,4 +1,4 @@
-# Tickerplant Changes 1
+# Tickerplant V0.1
 The tickerplant we used in the fundamentals course was a minimalistic implementation, what we want to do now is to make some changes to professionalise it. The first of these changes will be to add per sym subscriptions.
 
 ## .u.w structure
