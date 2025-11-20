@@ -11,3 +11,4 @@
 | | | • [ctil](reading/ctil.md) | • [Extending q using C/C++ functions](https://code.kx.com/q/interfaces/using-c-functions/)<br>  • [The C Programming Language](https://alphakdb-my.sharepoint.com/:b:/p/kieran_lucid/Eeg2bcjxrktOkR4GXs5yDzEBAdvVXH1fijG91uq70W1mIA?e=IT7cPA)
 | | | • [rustReverse](reading/rustReverse.md) | • [rust-lang.org](https://rust-lang.org)
 | | | • [genSyms](reading/gensyms.md) | 
+| • [Notes on amend](reading/notes_on_amend.md) | | • [diskAmend](reading/diskamend.md) |
