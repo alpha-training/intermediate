@@ -1,6 +1,6 @@
 ## Ensuring something is a list
 
-Let's suppose I am writing a function `negDistinct` which gets the unique items in a list argument and negates them, I could do
+Let's suppose I am writing a function `negDistinct` I could do:
 
 	q)negDistinct:{neg distinct x}
 	q)negDistinct 3 3 4 5
