@@ -12,3 +12,4 @@
 | | | • [rustReverse](reading/rustReverse.md) | • [rust-lang.org](https://rust-lang.org)
 | | | • [genSyms](reading/gensyms.md) | 
 | • [Notes on amend](reading/notes_on_amend.md) | | • [diskAmend](reading/diskamend.md) |
+| | • [Simplifying functions & chaining](https://alphakdb-my.sharepoint.com/:v:/p/kieran_lucid/IQBWV4UQECOQTKbEZ6FP0deeAUF5flL8U37tLV-xIe8H0oc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZTyOS7) | • [Load File](reading/loadfile.md) | • [\l](https://code.kx.com/q/basics/syscmds/#l-load-file-or-directory)	
