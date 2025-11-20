@@ -24,7 +24,7 @@ But we have an edge case here that could cause us problems. What if we pass in a
 	q)0N!negDistinct enlist 6;
 	,,-6
 
-We can see that the expression `$[1=count x;enlist x;x]` holds true for both atoms & singletons, which means the enlist block gets run. This is not good, because we are now *double boxing* 6, creating a list in which the first item is itself a list of 1 (a singleton).
+We can see that the expression `$[1=count x;enlist x;x]` holds true for both atoms & singletons, which means the `enlist x` block gets run. This is not good, because we are now *double boxing* 6, creating a list in which the first item is itself a list of 1 (a singleton).
 
 We could change our function to only run enlist on atoms, like so:
 
