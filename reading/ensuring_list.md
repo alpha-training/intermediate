@@ -11,7 +11,7 @@ Let's suppose I am writing a function `negDistinct` I could do:
                         ^
 	q))\
 
-This throws an error because distinct is an example of a function that requires a list for an argument; atoms won't work.
+`distinct` requires a list for an argument; atoms won't work.
 
 To get around this issue, I could think of using enlist, which *boxes* its argument into a list:
 
