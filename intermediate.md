@@ -13,3 +13,4 @@
 | | | • [genSyms](reading/gensyms.md) | 
 | • [Notes on amend](reading/notes_on_amend.md) <br>  • [Ensuring a list](reading/ensuring_list.md)<br>  • [Chaining](reading/chaining.md) | • [Simplifying functions & chaining](https://alphakdb-my.sharepoint.com/:v:/p/kieran_lucid/IQBWV4UQECOQTKbEZ6FP0deeAUF5flL8U37tLV-xIe8H0oc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZTyOS7) | • [diskAmend](reading/diskamend.md) <br>  • [Load File](reading/loadfile.md)| • [\l](https://code.kx.com/q/basics/syscmds/#l-load-file-or-directory)
 | | | • [genS](reading/gens.md)|	
+|||• [Longest word](reading/longestword.md)|
