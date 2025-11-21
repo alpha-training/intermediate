@@ -7,4 +7,5 @@
 	q)numVowels .Q.a
 	5
 
-The return value should be type long.
+* We'll just assume lower case for now
+* The return value should be type long
