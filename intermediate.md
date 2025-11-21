@@ -15,3 +15,4 @@
 | | | • [genS](reading/gens.md)|	
 |||• [Longest word](reading/longestword.md)|
 | || • [Remove arithmetic dupes](reading/remove_arithmetic_dupes.md)|
+| || • [Number of vowels](reading/numvowels.md)|
