@@ -16,3 +16,5 @@
 |||• [Longest word](reading/longestword.md)|
 | || • [Remove arithmetic dupes](reading/remove_arithmetic_dupes.md)|
 | || • [Number of vowels](reading/numvowels.md)|
+| | |• [Sum digits](reading/sumdigits.md) |
+| | |• [To camel](reading/tocamel.md) |
