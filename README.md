@@ -18,4 +18,4 @@
 | || • [Number of vowels](reading/numvowels.md)|
 | | |• [Sum digits](reading/sumdigits.md) |
 | | |• [To camel](reading/tocamel.md) |
-|• [Clever conditionals](reading/clever_conditionals.md)| | |
+|• [Clever conditionals](reading/clever_conditionals.md)| |• [Fizz Buzz](reading/fizzbuzz.md) |
