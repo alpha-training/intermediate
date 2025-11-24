@@ -12,3 +12,7 @@ Write a function `charFreq` which - given a string - returns a mapping of each c
 	e| 2
 	l| 1
 	f| 1
+	
+**Suggested time:** 10 minutes
+
+**Hint:** Try to use chaining to avoid needing `{}`

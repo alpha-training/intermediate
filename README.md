@@ -20,3 +20,4 @@
 | | |• [To camel](reading/tocamel.md) |
 |• [Clever conditionals](reading/clever_conditionals.md)| |• [Fizz Buzz](reading/fizzbuzz.md) |
 | | |• [Character frequency](reading/charfreq.md) |
+| | |• [Anagram](reading/anagram.md) |
