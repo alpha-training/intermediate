@@ -22,3 +22,4 @@
 | | |• [Character frequency](reading/charfreq.md) |
 | | |• [Anagram](reading/anagram.md) |
 | | |• [Even Odd](reading/evenodd.md) |
+| | |• [Remove non-alphas](reading/remove_non_alphas.md)|
