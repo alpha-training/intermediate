@@ -23,3 +23,4 @@
 | | |• [Anagram](reading/anagram.md) |
 | | |• [Even Odd](reading/evenodd.md) |
 | | |• [Remove non-alphas](reading/remove_non_alphas.md)|
+| | • [Functional selects](https://alphakdb-my.sharepoint.com/:v:/p/kieran_lucid/IQDebbHawjTwRIObkQOZkQt0AR-8tbtGspokMe-W-lls7CY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dL7wIQ)| |
