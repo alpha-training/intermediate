@@ -26,3 +26,4 @@
 | | |• [Add position](reading/addpos.md) |
 | | • [Functional selects](https://alphakdb-my.sharepoint.com/:v:/p/kieran_lucid/IQDebbHawjTwRIObkQOZkQt0AR-8tbtGspokMe-W-lls7CY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dL7wIQ)| • [Query Table 1](reading/queryTable1.md) | • [Functional qSQL](https://code.kx.com/q/basics/funsql)
 | | | • [Longest run](reading/longest_run.md)|
+| | | • [First non-repeating](reading/first_non_repeating.md)|
