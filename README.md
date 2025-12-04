@@ -30,3 +30,4 @@
 | | • [Vectorizing with tables](https://alphakdb-my.sharepoint.com/:v:/p/kieran_lucid/IQA0ziOqguGkQ5mUOgXXUfe4ARvCJzsAGCATD-rNnGsmw0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=K6OtDn)| |
 | | • [Vectorizing with tables (Part 2)](https://alphakdb-my.sharepoint.com/:v:/r/personal/kieran_lucid_alphakdb_com/Documents/Vectorizing%20with%20tables%20(part%202).mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WDca6Q)| |
 | | |• [Last day of previous month](reading/last_day_prev_month.md) |
+| | |• [Reverse vowels](reading/reversevowels.md) |
