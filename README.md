@@ -20,14 +20,15 @@
 | | |• [To camel](reading/tocamel.md) |
 |• [Clever conditionals](reading/clever_conditionals.md)| |• [Fizz Buzz](reading/fizzbuzz.md) |
 | | |• [Character frequency](reading/charfreq.md) |
+| | |• [Last day of previous month](reading/last_day_prev_month.md) |
 | | |• [Anagram](reading/anagram.md) |
 | | |• [Even Odd](reading/evenodd.md) |
 | | |• [Remove non-alphas](reading/remove_non_alphas.md)|
+| | |• [Reverse vowels](reading/reversevowels.md) |
 | | |• [Add position](reading/addpos.md) |
 | | • [Functional selects](https://alphakdb-my.sharepoint.com/:v:/p/kieran_lucid/IQDebbHawjTwRIObkQOZkQt0AR-8tbtGspokMe-W-lls7CY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dL7wIQ)| • [Query Table 1](reading/queryTable1.md) | • [Functional qSQL](https://code.kx.com/q/basics/funsql)
 | | | • [Longest run](reading/longest_run.md)|
 | | | • [First non-repeating](reading/first_non_repeating.md)|
 | | • [Vectorizing with tables](https://alphakdb-my.sharepoint.com/:v:/p/kieran_lucid/IQA0ziOqguGkQ5mUOgXXUfe4ARvCJzsAGCATD-rNnGsmw0w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=K6OtDn)| |
 | | • [Vectorizing with tables (Part 2)](https://alphakdb-my.sharepoint.com/:v:/r/personal/kieran_lucid_alphakdb_com/Documents/Vectorizing%20with%20tables%20(part%202).mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WDca6Q)| |
-| | |• [Last day of previous month](reading/last_day_prev_month.md) |
-| | |• [Reverse vowels](reading/reversevowels.md) |
+| | |• [Rolling sum with reset](reading/rollingsumreset.md) |
