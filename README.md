@@ -33,3 +33,4 @@
 | | • [Vectorizing with tables (Part 2)](https://alphakdb-my.sharepoint.com/:v:/r/personal/kieran_lucid_alphakdb_com/Documents/Vectorizing%20with%20tables%20(part%202).mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=WDca6Q)| |
 | | |• [Rolling sum with reset](reading/rollingsumreset.md) |
 | | |• [Reverse words](reading/reversewords.md) |
+| | |• [To 24h](reading/to24h.md) |
