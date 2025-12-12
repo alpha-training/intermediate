@@ -22,7 +22,7 @@ A note column can be useful for post trade analysis. The function `tonote` shoul
 	JPM strat10 2300
 
 
-If we want to derive an `Agg` table (aggregations) across strats, a note column shows which strats constituted each quantity:
+If we want to derive an `Agg` table (aggregations) across strats, a note column shows which strats constitute each quantity:
 
 	q)select aggtgt:sum tgtpos,note:tonote[strat;tgtpos]by sym from Intent
 	sym| aggtgt note                                                                               
