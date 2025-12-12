@@ -13,7 +13,7 @@
 	strat2| "200"
 	strat3| "300"
 
-The values remain as strings, but that is the desired behaviour, as we don't want to bake in the value type casting.
+The values remain as strings, which is the desired behaviour; users can cast the results afterwards if they wish.
 
 **Hint 1:** There are multiple ways to do this, including `vs` and `0:`. You should experiment with all.
 
