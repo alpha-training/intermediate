@@ -1,6 +1,6 @@
 # To note (tonote.q)
 
-A note column can be useful for post trade analysis. The task at handle for the function `tonote` is to accept two vectors for arguments, and return `"x0=y0 x1=y1..."`
+A note column can be useful for post trade analysis. The function `tonote` should accept two vectors for arguments, and return `"x0=y0 x1=y1..."`
 
 ## Example: Intent to Agg
 
