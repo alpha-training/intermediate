@@ -34,3 +34,4 @@
 | | |• [Rolling sum with reset](reading/rollingsumreset.md) |
 | | |• [Reverse words](reading/reversewords.md) |
 | | |• [To 24h](reading/to24h.md) |
+| | |• [To note](reading/tonote.md) |
