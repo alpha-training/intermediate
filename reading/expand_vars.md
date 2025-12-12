@@ -11,7 +11,11 @@ The goal is to write a function that expands variables as in bash, with referenc
 	q)expand"$data/procs/$name"
 	"/disk01/dev/procs/tp0"
 	q)expand"$data/procs/$name/$client"
-	"/disk01/dev/procs/tp0/MISSING"
+	"/disk01/dev/procs/tp0/MISSING"			/ handles undefined
+	q)expand"$data/procs/$name.csv
+	"/disk01/dev/procs/tp0.csv				/ handles breaks
+	q)expand"$data/procs/$name-dev.csv
+	"/disk01/dev/procs/tp0-dev.csv
 	
 
-**Note:** For simplicity, assume that all variables will be strings.
+**Note:** Include `.qi.tostr` in your script to ensure variables are resolved as strings.
