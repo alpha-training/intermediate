@@ -37,3 +37,4 @@
 | | |• [To note](reading/tonote.md) |
 | | |• [From note](reading/fromnote.md) |
 | | |• [Expand vars](reading/expand_vars.md) |
+| | |• [Infer](reading/infer.md) |
