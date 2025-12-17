@@ -38,3 +38,4 @@
 | | |• [From note](reading/fromnote.md) |
 | | |• [Expand vars](reading/expand_vars.md) |
 | | |• [Infer](reading/infer.md) |
+| | |• [Log info](reading/loginfo.md) |
