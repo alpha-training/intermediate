@@ -39,3 +39,5 @@
 | | |• [Expand vars](reading/expand_vars.md) |
 | | |• [Infer](reading/infer.md) |
 | | |• [Log info](reading/loginfo.md) |
+| | |• [Allocate fills](reading/allocate_fills.md) |
+| | |• [Vector function](reading/vfunc.md) |
