@@ -8,5 +8,5 @@ In `allocate.q`, the `allocate` function should allocate x proportionally to wei
 
 	q)allocate[100;.75 .2 .05]
 	75 20 5
-	q)allocate[100;.5 .5 .5]		/ substract remainder from the minimum weight
+	q)allocate[100;.5 .5 .5]
 	34 33 33
