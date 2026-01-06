@@ -7,8 +7,10 @@ Corporate actions are events that have a bearing on the price of a stock. Exampl
 * **Bonus**: Shareholders are given extra shares for free, which is similar to a split
 
 ## Task
-A trader querying historical day will often want to see prices that are adjusted to reflect the true price, regardless of these events. Here is some boiler plate code:
+A trader querying historical day will often want to see prices that are adjusted to reflect the true price, regardless of these events. Here is some boiler plate code for your file `ca.q`:
 
+	/ ca.q
+	
 	Trade:([]date:1995.01.01 2000.01.02 2000.02.02 2000.03.02 2000.04.02 2000.05.01;sym:`IBM;price:100f;size:100)
 	Trade,:update sym:`JPM from Trade
 
@@ -22,7 +24,7 @@ A trader querying historical day will often want to see prices that are adjusted
       ...
   	 }
 
-In `ca.q`, the task is to complete the `adjust` function such that:
+The task is to complete the `adjust` function such that:
 
 	q)adjust[Trade;`dividend]
 	date       sym price size     typ      factor rfactor
