@@ -22,7 +22,7 @@ A trader querying historical day will often want to see prices that are adjusted
       ...
   	 }
 
-The task is to complete the `adjust` function such that:
+In `ca.q`, the task is to complete the `adjust` function such that:
 
 	q)adjust[Trade;`dividend]
 	date       sym price size     typ      factor rfactor
