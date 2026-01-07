@@ -42,3 +42,4 @@
 | | |• [Allocate fills](reading/allocate_fills.md) |
 | | |• [Vector function](reading/vfunc.md) |
 | | |• [Corporate actions](reading/ca.md) |
+| | |• [Window join](reading/wj.md) | • [wj](https://code.kx.com/q/ref/wj/)
