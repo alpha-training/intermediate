@@ -16,7 +16,7 @@ The task is to flesh out `joinBest` and `joinAll` in `wj.q`:
 	update `g#sym from`Quote;
 
 	getTrades:{[s] select from Trade where sym in s}
-	getQuotes:{[s] select from Quote where sym in s}
+	getQuotes:{[s] update `g#sym from select from Quote where sym in s}
 
 	joinBest:{[s;win;b]
   	 t:getTrades s;
